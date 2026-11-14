@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1570 700" width="1570" height="700" role="img" aria-label="Meterly User Story Map with MVP and future release slices">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:DejaVu Sans,Arial,sans-serif;fill:#192633}.title{font-weight:700;font-size:29px}.sub{font-size:15px;fill:#556678}.head{font-size:17px;font-weight:700}.actor{font-size:15px;fill:#506573}.rowlabel{font-size:14px;font-weight:700}.cell{font-size:17px}.id{font-weight:700}.foot{font-size:14px;fill:#506573}</style>
+<text class="title" x="24" y="44">Meterly — User Story Map</text>
+<text class="sub" x="24" y="73">Horizontal: user journey  •  Vertical: release slices  •  MVP: US-001–US-006</text>
+<rect x="174" y="100" width="342" height="84" rx="10" fill="#f0f3f7"/>
+<text class="head" x="190" y="130">1. CONFIGURE</text>
+<text class="actor" x="190" y="156">SaaS operator</text>
+<rect x="524" y="100" width="342" height="84" rx="10" fill="#f0f3f7"/>
+<text class="head" x="540" y="130">2. RECORD</text>
+<text class="actor" x="540" y="156">SaaS application</text>
+<rect x="874" y="100" width="342" height="84" rx="10" fill="#f0f3f7"/>
+<text class="head" x="890" y="130">3. INSPECT</text>
+<text class="actor" x="890" y="156">Operator / application</text>
+<rect x="1224" y="100" width="342" height="84" rx="10" fill="#f0f3f7"/>
+<text class="head" x="1240" y="130">4. DECIDE</text>
+<text class="actor" x="1240" y="156">SaaS application</text>
+<rect x="24" y="185" width="142" height="172" rx="8" fill="#e7f3ec" stroke="#21834d" stroke-width="1.6"/>
+<text class="rowlabel" x="36" y="215">MVP</text>
+<text class="foot" x="36" y="243">Must-have</text>
+<text class="foot" x="36" y="265">CP1 scope</text>
+<rect x="174" y="185" width="342" height="172" rx="9" fill="#e7f3ec" stroke="#21834d" stroke-width="1.4"/>
+<text class="cell" x="190" y="216">US-001  Register customer &amp;</text>
+<text class="cell" x="190" y="239">meter</text>
+<text class="cell" x="190" y="283">US-005  Set monthly quota</text>
+<rect x="524" y="185" width="342" height="172" rx="9" fill="#e7f3ec" stroke="#21834d" stroke-width="1.4"/>
+<text class="cell" x="540" y="216">US-002  Submit usage event</text>
+<text class="cell" x="540" y="283">US-003  Retry without double</text>
+<text class="cell" x="540" y="306">counting</text>
+<rect x="874" y="185" width="342" height="172" rx="9" fill="#e7f3ec" stroke="#21834d" stroke-width="1.4"/>
+<text class="cell" x="890" y="216">US-004  Retrieve monthly usage</text>
+<text class="cell" x="890" y="283">Accepted-event breakdown</text>
+<rect x="1224" y="185" width="342" height="172" rx="9" fill="#e7f3ec" stroke="#21834d" stroke-width="1.4"/>
+<text class="cell" x="1240" y="216">US-006  Check quota status</text>
+<text class="cell" x="1240" y="283">Host app applies its decision</text>
+<line x1="24" y1="362" x2="1544" y2="362" stroke="#21834d" stroke-width="3" stroke-dasharray="13 7"/>
+<rect x="24" y="365" width="142" height="145" rx="8" fill="#f2f4f8" stroke="#a4adb8" stroke-width="1.6"/>
+<text class="rowlabel" x="36" y="395">NEXT RELEASE</text>
+<rect x="174" y="365" width="342" height="145" rx="9" fill="#f2f4f8" stroke="#a4adb8" stroke-width="1.4"/>
+<text class="cell" x="190" y="396">Bulk import</text>
+<text class="cell" x="190" y="463">Quota change history</text>
+<rect x="524" y="365" width="342" height="145" rx="9" fill="#f2f4f8" stroke="#a4adb8" stroke-width="1.4"/>
+<text class="cell" x="540" y="396">Batch ingestion</text>
+<text class="cell" x="540" y="463">Late-event corrections</text>
+<rect x="874" y="365" width="342" height="145" rx="9" fill="#f2f4f8" stroke="#a4adb8" stroke-width="1.4"/>
+<text class="cell" x="890" y="396">Usage trends</text>
+<text class="cell" x="890" y="463">Downloadable reports</text>
+<rect x="1224" y="365" width="342" height="145" rx="9" fill="#f2f4f8" stroke="#a4adb8" stroke-width="1.4"/>
+<text class="cell" x="1240" y="396">Threshold alerts</text>
+<text class="cell" x="1240" y="463">Webhooks</text>
+<rect x="24" y="518" width="142" height="145" rx="8" fill="#f8f8fa" stroke="#d2d7db" stroke-width="1.6"/>
+<text class="rowlabel" x="36" y="548">OUT OF SCOPE</text>
+<rect x="174" y="518" width="342" height="145" rx="9" fill="#f8f8fa" stroke="#d2d7db" stroke-width="1.4"/>
+<text class="cell" x="190" y="549">Subscription setup</text>
+<text class="cell" x="190" y="616">Pricing plans</text>
+<rect x="524" y="518" width="342" height="145" rx="9" fill="#f8f8fa" stroke="#d2d7db" stroke-width="1.4"/>
+<text class="cell" x="540" y="549">Payment transactions</text>
+<rect x="874" y="518" width="342" height="145" rx="9" fill="#f8f8fa" stroke="#d2d7db" stroke-width="1.4"/>
+<text class="cell" x="890" y="549">Invoices</text>
+<text class="cell" x="890" y="616">Financial reconciliation</text>
+<rect x="1224" y="518" width="342" height="145" rx="9" fill="#f8f8fa" stroke="#d2d7db" stroke-width="1.4"/>
+<text class="cell" x="1240" y="549">Block host-app requests</text>
+<text class="foot" x="24" y="681">Handoffs: operator configures → application records → operator inspects → application checks quota (advisory only)</text>
+</svg>
