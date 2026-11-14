@@ -39,7 +39,7 @@ Detailed functional requirements, acceptance criteria, and scope boundaries are 
 
 | Checkpoint | Git Tag | Commit SHA | Status |
 |---|---|---|---|
-| CP1 — Problem and Requirements | `cp1` | TBD | Completed |
+| CP1 — Problem and Requirements | `cp1` | 28dd973533e10420ae1407c3bf4f5642084d42e4 | Completed |
 | CP2 — Architecture and Skeleton | TBD | TBD | Planned |
 | CP3 — MVP and Quality | TBD | TBD | Planned |
 | CP4 — Release Candidate | TBD | TBD | Planned |
